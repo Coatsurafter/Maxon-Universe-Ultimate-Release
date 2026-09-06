@@ -1,0 +1,23 @@
+{
+  "repo": "maxon-universe-ultimate-release",
+  "product": "Maxon Universe Ultimate Release",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "maxon-universe",
+    "cinema-plugins",
+    "motion-graphics-pack",
+    "redshift-companion",
+    "maxon-one",
+    "maxon-setup-failed-fix",
+    "how-to-install-maxon",
+    "maxon-windows",
+    "maxon-desktop-2026",
+    "maxon-desktop-package"
+  ],
+  "site": "toolix.me"
+}
